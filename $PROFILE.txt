@@ -1,0 +1,1 @@
+oh-my-posh init pwsh --config "$HOME\.posh\blueish.omp.json" | Invoke-Expression
